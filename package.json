@@ -1,0 +1,24 @@
+{
+  "name": "a-wossom-react-loader",
+  "version": "1.0.0",
+  "description": "React loader component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdeveloper/loader.git"
+  },
+  "keywords": [
+    "react",
+    "loader",
+    "spinner"
+  ],
+  "author": "ferdeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdeveloper/loader/issues"
+  },
+  "homepage": "https://github.com/ferdeveloper/loader#readme"
+}
